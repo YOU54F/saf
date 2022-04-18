@@ -42,7 +42,6 @@ class Clisaf < Formula
     end
   end
 
-
   test do
     system "#{bin}/clisaf"
   end
